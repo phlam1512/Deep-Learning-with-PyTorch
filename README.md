@@ -9,3 +9,5 @@ implementation, training, and evaluation of the performance of a deep learning m
 This group project is submitted as part of assessed coursework for a module at LSE: ST311 Artificial Intelligence.
 
 ## Files
+- `final.ipynb` contains all Python code used for this project.
+- `report.pdf`  is the written report for this project.
