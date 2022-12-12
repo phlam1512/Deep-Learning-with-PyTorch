@@ -5,6 +5,8 @@ Deep learning implemented in Python and using the `PyTorch` library.
 The aim is to demonstrate the mastery of some of the deep learning topics, including deep neural networks (DNN), convolutional neural entwork (CNN), variational autoencoders (VAE) and generative adversarial networks (GAN), with a focus on methodology, neural network architecture design,
 implementation, training, and evaluation of the performance of a deep learning model.
 
+This focus of this project the colourisation of greyscale images with autoencoders.
+
 ## Remarks
 This group project is submitted as part of assessed coursework.
 
