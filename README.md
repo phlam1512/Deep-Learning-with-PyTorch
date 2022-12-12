@@ -6,7 +6,7 @@ The aim is to demonstrate the mastery of some of the deep learning topics, inclu
 implementation, training, and evaluation of the performance of a deep learning model.
 
 ## Remarks
-This group project is submitted as part of assessed coursework for a module at LSE: ST311 Artificial Intelligence.
+This group project is submitted as part of assessed coursework.
 
 ## Files
 - `final.ipynb` contains all Python code used for this project.
