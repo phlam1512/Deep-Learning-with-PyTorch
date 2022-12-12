@@ -10,4 +10,5 @@ This group project is submitted as part of assessed coursework for a module at L
 
 ## Files
 - `final.ipynb` contains all Python code used for this project.
-- `report.pdf`  is the written report for this project.
+- `report.pdf` is the written report for this project.
+- The original dataset is sourced from "https://github.com/unsplash/datasets".
